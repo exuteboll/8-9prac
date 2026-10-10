@@ -21,3 +21,11 @@ C:\8-9prac\obj\Debug\net8.0\Prak8_9.sourcelink.json
 C:\8-9prac\obj\Debug\net8.0\Prak8_9.dll
 C:\8-9prac\obj\Debug\net8.0\refint\Prak8_9.dll
 C:\8-9prac\obj\Debug\net8.0\Prak8_9.pdb
+C:\8-9prac\bin\Debug\net8.0\Prak8_9.exe
+C:\8-9prac\bin\Debug\net8.0\Prak8_9.deps.json
+C:\8-9prac\bin\Debug\net8.0\Prak8_9.runtimeconfig.json
+C:\8-9prac\bin\Debug\net8.0\Prak8_9.dll
+C:\8-9prac\bin\Debug\net8.0\Prak8_9.pdb
+C:\8-9prac\obj\Debug\net8.0\Prak8_9.genruntimeconfig.cache
+C:\8-9prac\obj\Debug\net8.0\ref\Prak8_9.dll
+C:\8-9prac\obj\Debug\net8.0\Prak8_9.csproj.Up2Date

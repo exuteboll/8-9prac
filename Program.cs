@@ -3,7 +3,7 @@ using System;
 namespace Prak8_9
 {
     class Program
-    {....
+    {
         // Процедура для проверки, содержатся ли в переданном столбце матрицы только положительные элементы
         static bool IsColumnPositive(double[,] matrix, int colIndex, int rows)
         {
@@ -16,7 +16,7 @@ namespace Prak8_9
             }
             return true;
         }
-        ........
+        
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
